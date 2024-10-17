@@ -135,4 +135,3 @@ Pour utiliser le `Makefile`, voici quelques exemples de commandes :
 ## License
 
 Ce projet est sous la [MIT License](LICENSE).
-```
